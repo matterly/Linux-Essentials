@@ -1,0 +1,6 @@
+adduser 유저명
+
+
+groups
+
+-aG sudo 유저명
