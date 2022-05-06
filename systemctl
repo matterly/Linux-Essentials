@@ -8,3 +8,8 @@ systemctl status sshd
 systemctl status mariadb
 systemctl enable mariadb
 systemctl start mariadb
+
+
+
+
+systemctl reload apache2
