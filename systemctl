@@ -1,0 +1,10 @@
+systemctl status
+systemctl status ssh
+systemctl status sshd
+
+
+
+
+systemctl status mariadb
+systemctl enable mariadb
+systemctl start mariadb
